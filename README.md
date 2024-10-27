@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emir-%C3%B6zt%C3%BCrk-1b11941a5/)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giantprogrammer34)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giantprogrammer31)
 
 
 
 <h1 align="center">Hi I'm Emir</h1>
-<h3 align="center">I am developer in Turkey</h3>
+<h3 align="center">I am Turkiye 🐺🐺🐺🐺</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bombastudio" alt="bombastudio" /></a> </p>
 
