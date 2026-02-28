@@ -1,5 +1,5 @@
-<h1 align="center">Selam, Ben Emir! 👋</h1>
-<h3 align="center">Full-Stack, Mobil & Oyun Geliştiricisi | Fizik Lisans Öğrencisi ⚛️ | 🇹🇷 🐺</h3>
+<h1 align="center">Hi, I'm Emir! 👋</h1>
+<h3 align="center">Full-Stack, Mobile & Game Developer | Physics Undergrad ⚛️ | 🇹🇷 🐺</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emir-%C3%B6zt%C3%BCrk-1b11941a5/" target="_blank">
@@ -15,20 +15,20 @@
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-Gündüzleri Ege Üniversitesi'nde fizik formülleriyle boğuşan, geceleri ise **Coding Your Pain** markası altında kod yazıp dijital dünyalar inşa eden bir geliştiriciyim. Gamejam'lerde ve hackathonlarda oyunların "core mekaniklerini" hızlıca ayağa kaldırmak ve sağlam prototipler çıkarmak benim işim. 
+Wrestling with physics formulas at Ege University by day, building digital worlds and writing code under the **Coding Your Pain** brand by night. As a proud Yörük from Fethiye, I thrive on rapidly prototyping and bringing solid core mechanics to life in game jams and hackathons.
 
-- 🔭 **Şu an ne üzerinde çalışıyorum:** Unity'de araç fizikleri (VPP) ve sağlam bölüm tasarımları içeren multiplayer bir yarış oyunu geliştiriyorum.
-- 🌱 **Odaklandığım teknolojiler:** Unity, Vue.js, Laravel, Next.js ve yapay zeka entegrasyonları (Gemini API vb.).
-- 📱 **Son İşim:** Gemini AI destekli tarot yorumlama uygulamam **Meowstick**, Play Store'da yayında!
-- ⚡ **Çalışma Tarzım:** Kulaklıkta Hidra çalarken saatlerce aralıksız kod yazmak ve karmaşık problemleri basit core mekaniklere indirgemek.
+- 🔭 **Currently working on:** A multiplayer racing game in Unity featuring custom vehicle physics (VPP) and detailed level design.
+- 🌱 **Tech stack focus:** Unity, Vue.js, Laravel, Next.js, and AI integrations (Gemini API).
+- 📱 **Latest drop:** My Gemini AI-powered tarot reading app, **Meowstick**, is now live on the Play Store!
+- ⚡ **My vibe:** Blasting Hidra in my headphones and coding for hours to turn complex problems into simple, playable mechanics.
 
 ---
 
-### 🛠️ Teknoloji Yığınım
+### 🛠️ Tech Stack
 
-**Oyun Geliştirme:** ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+**Game Development:** ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -38,17 +38,19 @@ Gündüzleri Ege Üniversitesi'nde fizik formülleriyle boğuşan, geceleri ise 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Veritabanı & Araçlar:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+**Databases & Tools:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bombastudio&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="bombastudio stats" />
+  <a href="https://github.com/bombastudio">
+    <img src="https://github-readme-stats.vercel.app/api?username=bombastudio&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="bombastudio stats" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bombastudio&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="bombastudio top languages" />
-</p>
+  <a href="https://github.com/bombastudio">
+    <img src="https://github
