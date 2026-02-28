@@ -53,4 +53,6 @@ Wrestling with physics formulas at Ege University by day, building digital world
 </p>
 <p align="center">
   <a href="https://github.com/bombastudio">
-    <img src="https://github
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bombastudio&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="bombastudio top languages" />
+  </a>
+</p>
