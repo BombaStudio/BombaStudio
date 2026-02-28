@@ -48,11 +48,11 @@ Wrestling with physics formulas at Ege University by day, building digital world
 
 <p align="center">
   <a href="https://github.com/bombastudio">
-    <img src="https://github-readme-stats.vercel.app/api?username=bombastudio&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="bombastudio stats" />
+    <img src="[https://github-readme-stats.vercel.app/api?username=bombastudio&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=bombastudio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)" alt="bombastudio stats" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/bombastudio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bombastudio&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight" alt="bombastudio top languages" />
+    <img src="[ttps://github-readme-stats.vercel.app/api/top-langs?username=bombastudio&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bombastudio&layout=compact&langs_count=8&theme=algolia)" alt="bombastudio top languages" />
   </a>
 </p>
