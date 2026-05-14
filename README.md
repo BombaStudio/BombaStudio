@@ -1,58 +1,60 @@
-<h1 align="center">Hi, I'm Emir! 👋</h1>
-<h3 align="center">Full-Stack, Mobile & Game Developer | Physics Undergrad ⚛️ | 🇹🇷 🐺</h3>
+# Hey, I'm Emir Öztürk! ✌️
+I'm a Physics student at Ege University and a developer breaking my back over games, mobile apps, and full-stack web projects at **Bombastudio**. Long story short, I suffer in the lab by day and grind out code with vibe coding in the Pop!_OS terminal by night.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emir-%C3%B6zt%C3%BCrk-1b11941a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/giantprogrammer31" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.emirozturk.meowstick" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
-  </a>
-</p>
+### 💫 A Little Bit About Me:
+🔭 **Currently wrestling with:** Writing my own game engine called [Talu Engine](https://github.com/BombaStudio) (with wolflang), fighting with Laravel on the back-end for **Airsence** (a vehicle reservation system), and tackling the **Promptme4Better** Erasmus+ project for AI literacy.
+👯 **Would be badass to collaborate on:** Web3 projects (Monadistan vibes), game dev, or crazy ideas that need solid AI integration.
+🤝 **Wouldn't mind some help with:** Optimizing Talu Engine or brainstorming Rust/C++ architectures.
+🌱 **Currently obsessing over:** Smashing productivity limits with vibe coding (Ollama, Claude, Gemini) and the Google Antigravity IDE.
+💬 **Ask me about:** Laravel, Flutter, React/Vue, game engines, or questions like "How the f*ck did you become a full-stack dev while studying Physics?"
+⚡ **Useless fact:** I literally can't focus on coding without playing Hidra in the background. Oh, and I have an AI-powered tarot reading mobile app (**Meowstick**). Yeah, dead serious.
 
----
-
-### 🚀 About Me
-
-Wrestling with physics formulas at Ege University by day, building digital worlds and writing code under the **Coding Your Pain** brand by night. As a proud Yörük from Fethiye, I thrive on rapidly prototyping and bringing solid core mechanics to life in game jams and hackathons.
-
-- 🔭 **Currently working on:** A multiplayer racing game in Unity featuring custom vehicle physics (VPP) and detailed level design.
-- 🌱 **Tech stack focus:** Unity, Vue.js, Laravel, Next.js, and AI integrations (Gemini API).
-- 📱 **Latest drop:** My Gemini AI-powered tarot reading app, **Meowstick**, is now live on the Play Store!
-- ⚡ **My vibe:** Blasting Hidra in my headphones and coding for hours to turn complex problems into simple, playable mechanics.
+## 🌐 Where you can bother me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emir-ozturk-dev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/itsmethedev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GiantProgrammer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingyourpain) 
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 The Tech Stack I Actually Use:
 
-**Game Development:** ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+**Game & Mobile Dev**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Full-Stack & Web:** ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Web Front-End**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Databases & Tools:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Web Back-End & Database**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+**Tools & Environment**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=BombaStudio&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=BombaStudio&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BombaStudio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/bombastudio">
-    <img src="[https://github-readme-stats.vercel.app/api?username=bombastudio&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=bombastudio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)" alt="bombastudio stats" />
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BombaStudio&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+### 🔝 Top Contributed Repos
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=BombaStudio&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
+
+---
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=BombaStudio&icon=0&color=0" />
   </a>
-</p>
-<p align="center">
-  <a href="https://github.com/bombastudio">
-    <img src="[ttps://github-readme-stats.vercel.app/api/top-langs?username=bombastudio&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bombastudio&layout=compact&langs_count=8&theme=algolia)" alt="bombastudio top languages" />
-  </a>
-</p>
+</div>
+
+## 💰 If you wanna chip in:
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/emirozturk)
