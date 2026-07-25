@@ -78,7 +78,7 @@ I'm a Physics student who ended up as a full-stack, game, and mobile developer â
 </div>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=BombaStudio&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="./trophy.svg" />
 </div>
 
 <div align="center">
