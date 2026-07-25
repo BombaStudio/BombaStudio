@@ -22,8 +22,8 @@ I'm a Physics student who ended up as a full-stack, game, and mobile developer �
 
 **Currently working on**
 - 🎮 **Talu Engine** — a custom game engine written with a language called *wolflang*
-- 🚗 **Airsence** — a vehicle reservation system, Laravel on the back-end
-- 🌍 **Promptme4Better** — an Erasmus+ project on AI literacy
+- 🐋 **WhaleWhisper** — A Web3 De-Fi application that uses AI agents to detect whales and provide portfolio recommendations. 
+- 📝 **Entropy** — A mobile application that provides task and budget planning tailored to minds with ADHD, and also includes a calendar system.
 - 🔮 **Meowstick** — an AI-powered tarot reading app, already shipped
 
 **Open to collaborating on:** Web3 / on-chain ideas, game dev, or anything that needs solid AI integration woven in.
